@@ -7,7 +7,7 @@ Instalação e utilização:
 git clone https://github.com/PabloCezar0/CEPEDI/
 
 2. Entre na pasta:
-cd Pratica3
+cd CEPEDI/Pratica3
 
 3. Crie  o ambiente virtual Python:
 python -m venv venv
